@@ -15,4 +15,5 @@ function analizEt() {
     // 4. Sonuçları ekrana yazdırma
     document.getElementById("harfSayisi").innerText = harfSayisi;
     document.getElementById("kelimeSayisi").innerText = kelimeSayisi;
+
 }
